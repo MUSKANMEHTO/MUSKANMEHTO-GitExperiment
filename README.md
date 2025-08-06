@@ -6,7 +6,7 @@ Learn the basics of **Git** and **GitHub**, including repository creation, commi
 ---
 
 ## 📝 About Me
-**Name:** Your Name  
+**Name:** muskan mehto 
 **Subject:** Git & GitHub Basics  
 **Project Idea:** A simple HTML page demonstrating basic web development.
 
@@ -34,6 +34,4 @@ Learn the basics of **Git** and **GitHub**, including repository creation, commi
 ## 🔗 GitHub Repository
 [Click here to view the repository]((https://github.com/MUSKANMEHTO/MUSKANMEHTO-GitExperiment.git ))
 
----
 
-✅ *Experiment completed successfully!* 🎉
